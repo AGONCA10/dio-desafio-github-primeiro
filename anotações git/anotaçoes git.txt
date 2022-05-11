@@ -1,1 +1,5 @@
-git bash e um terminal extendido para otimizar o uso do git
+git bash e um terminal extendido para otimizar o uso do git.
+
+## links úteis
+
+[comandos basicos](https://www.dio.me/articles/principais-comandos-git-e-github)
