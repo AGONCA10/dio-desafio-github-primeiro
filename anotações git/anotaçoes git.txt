@@ -1,4 +1,8 @@
-
-# links-úteis
-
-[comandos basicos](https://www.dio.me/articles/principais-comandos-git-e-github)
+comandos git
+git init- cria um repositorio do Git
+git add-adiciona uma alteração no diretório ativo à área de staging.
+git commit- pode ser utilizado de múltiplas formas para comitar as alterações para o repositório, porém todo commit necessita de uma mensagem para logar, já que esta o identificará.ex: git commit -m
+git clone-é um utilitário de linha de comando que é usado para selecionar um repositório existente e criar um clone ou cópia do repositório de destino.
+git push-é usado para enviar o conteúdo do repositório local para um repositório remoto.
+git pull- é usado para buscar e baixar conteúdo de repositórios remotos e fazer a atualização imediata ao repositório local para que os conteúdos sejam iguais.
+git config-é a função conveniente usada para definir valores de configuração do Git em projetos de nível global ou local.
